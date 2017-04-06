@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1491507940 source:c:\users\mariangeles\documents\c\intento\intenti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"libreria.h"
+
+1491509189 source:c:\users\mariangeles\documents\c\intento\intenti\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1491507867 c:\users\mariangeles\documents\c\intento\intenti\libreria.h
+

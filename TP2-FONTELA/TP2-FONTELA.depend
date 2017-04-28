@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1493350197 source:c:\users\mariangeles\documents\c\tp2\tp2-fontela\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1493258578 c:\users\mariangeles\documents\c\tp2\tp2-fontela\funciones.h
+
+1493350104 source:c:\users\mariangeles\documents\c\tp2\tp2-fontela\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+

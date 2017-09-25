@@ -15,3 +15,19 @@
 	<string.h>
 	"funciones.h"
 
+1493350198 source:e:\program 1\tp2\tp2-fontela\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1493258580 e:\program 1\tp2\tp2-fontela\funciones.h
+
+1493350106 source:e:\program 1\tp2\tp2-fontela\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+

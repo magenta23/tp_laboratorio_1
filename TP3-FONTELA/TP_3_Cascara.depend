@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1496256099 source:d:\faculteishon\2017\programacion\tp_3_palmeyro_leandro\funciones.c
+
+1496265400 source:d:\faculteishon\2017\programacion\tp_3_palmeyro_leandro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1496265400 d:\faculteishon\2017\programacion\tp_3_palmeyro_leandro\funciones.h
+
+1503688654 source:c:\users\mariangeles\documents\c\palmeyro-_leandro_repositorio-master\tp_3_palmeyro_leandro\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1503688654 c:\users\mariangeles\documents\c\palmeyro-_leandro_repositorio-master\tp_3_palmeyro_leandro\funciones.h
+
+1503688654 source:c:\users\mariangeles\documents\c\palmeyro-_leandro_repositorio-master\tp_3_palmeyro_leandro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508466629 source:c:\users\mariangeles\documents\c\tp3-fontela\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508463153 c:\users\mariangeles\documents\c\tp3-fontela\funciones.h
+
+1508372791 source:c:\users\mariangeles\documents\c\tp3-fontela\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
